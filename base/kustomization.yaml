@@ -1,0 +1,12 @@
+resources:
+  - deployment.yaml
+  - service.yaml
+
+images:
+  - name: siddharth67/solar-system
+    newTag: v6
+
+namespace: solar-demo
+patchesStrategicMerge:
+  - affinity-patch.yaml
+
