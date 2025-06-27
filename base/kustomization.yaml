@@ -4,7 +4,7 @@ resources:
 
 images:
   - name: siddharth67/solar-system
-    newTag: v3
+    newTag: v6
 
 namespace: solar-demo
 patchesStrategicMerge:
