@@ -15,4 +15,4 @@ spec:
                   - key: public-ip
                     operator: In
                     values:
-                      - "109.232.233.229"
+                      - "80.247.13.222"
