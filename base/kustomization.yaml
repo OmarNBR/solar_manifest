@@ -6,7 +6,6 @@ images:
   - name: siddharth67/solar-system
     newTag: v9
 
-namespace: github-solar
 patchesStrategicMerge:
   - affinity-patch.yaml
 
